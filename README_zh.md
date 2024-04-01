@@ -1,3 +1,6 @@
+[切换到中文版本](README_zh.md) 
+
+[Switch to English Version](README.md)
 # 使用AI生成视频
 
 本项目旨在利用AI帮助用户将文本转换成视频。以下是项目的使用方法和步骤：
